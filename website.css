@@ -1,0 +1,197 @@
+
+
+#intro-page
+{
+background-image: url("webpic.jpg");
+
+background-color:whitesmoke;
+}
+
+.intro{ 
+    margin-left: 40px;
+}
+
+#name-title{ 
+    font-family: andale monospace;
+    font-weight: normal;
+    color:black;
+    font-size: 100px;
+    text-align: left;
+}
+#name-title2 {font-family: andale monospace;
+    font-weight: normal;
+color: black;
+font-size: 40px;
+text-align: left;}
+
+img{ text-align: right;}
+
+a{ 
+font-size: 25px;
+font-family: andale monospace;
+color: grey;
+text-align:left;}
+
+a:hover{ color: pink;
+}
+ .dalinks {
+    margin: 10px;
+    padding: 15px;
+    border: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    
+    }
+
+ #smile{ color: rgb(15, 15, 15);
+background-color: whitesmoke;
+margin: 0
+ }
+
+ .boutme{
+    position: absolute;
+    right: 100px;
+   top: -10px;
+    margin: auto;
+    padding: 40px;
+    border: solid;
+
+
+ }
+.dabox{ 
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 600px;
+    right: 90px;
+    top: 150px;
+    height: 600px;
+    width: 400px;
+    border-color: rgb(150, 146, 146);
+    border: 5px ;
+    line-height: 1.6;
+    text-align: left;
+    padding: 95px;
+}
+ 
+#pgal {
+    background-color: rgb(236, 189, 207);
+}
+#photo-gallery{ 
+    display: inline-block;
+    
+}
+.gallery {
+    display: inline-block;
+    padding: 80px;
+}
+ 
+.openingtext{
+    /* display: inline-block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    width: 45%;
+    margin: 15px; */
+    width: 400px;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    line-height: 1.6;
+    padding: 80px;
+     top:10px
+     
+}
+
+.headergallery{
+    display: inline-block;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+.footergallery{
+    display: inline-block;
+    margin-left: 20%;
+}
+
+#poetry{
+    background-image: url("body2body.jpg");
+    background-position: center;
+    background-size: cover
+}
+
+.summer{
+    padding: 14px;
+    margin: 111px;
+    background-color: wheat;
+    width: fit-content;
+    text-align: left;
+}
+
+.code{
+    float: right;
+    top: 300px;
+    padding: 14px;
+    margin: 111px;
+    background-color: wheat;
+    width: fit-content;
+}
+
+
+
+.blackbod{
+    width: 400px;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    line-height: 1.6;
+    padding: 80px;
+     top:10px
+     
+}
+
+.blackgallerycover{
+display: inline-block;
+margin: inherit;
+padding:30px
+}
+
+.blackgallery {
+    display: inline-block;
+}
+
+#bodyofbod {
+    background-color: pink;
+
+}
+
+.inlineproject{
+    display: inline-block;
+}
+
+.alchemytitle{
+    display: inline-block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 400px;
+    line-height: 1.6;
+   padding-left: 30px;
+    margin: inherit;
+
+}
+.alchemyvid{
+    display:inline-block;
+
+}
+
+/* display example */
+.blue{ 
+    width: 200px;
+    background-color: blue;
+}
+
+.red{
+    background-color: red;
+}
+
+
+.green{
+    background-color: seagreen;
+    height: 100%;
+    vertical-align: top;
+}
+
+.inline{
+    display: inline-block;
+}
