@@ -2,7 +2,7 @@
 
 #intro-page
 {
-background-image: url("webpic.jpg");
+background-image: url("picturesforweb/webpic.jpg");
 
 background-color:whitesmoke;
 }
@@ -109,7 +109,7 @@ margin: 0
 }
 
 #poetry{
-    background-image: url("body2body.jpg");
+    background-image: url("picturesforweb/body2body.jpg");
     background-position: center;
     background-size: cover
 }
