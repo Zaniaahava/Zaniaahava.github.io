@@ -198,3 +198,26 @@ padding:30px
 .inline{
     display: inline-block;
 }
+
+.bagel{ 
+    text-align: center;
+    margin: 15%;
+}
+
+#comingsoon {
+    text-align: center;
+    margin: 30%;
+    color: aliceblue;
+}
+
+.poetpage{
+    background-color: pink
+}
+
+#resume{
+    background-color: pink;
+}
+.reel{ 
+    text-align: center;
+    margin: 15%;
+}
